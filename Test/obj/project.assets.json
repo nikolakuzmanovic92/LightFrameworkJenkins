@@ -5242,25 +5242,26 @@
     ".NETCoreApp,Version=v3.1": [
       "LightFramework >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
+      "NUnit.ConsoleRunner >= 3.11.1",
       "NUnit3TestAdapter >= 3.17.0",
       "Selenium.WebDriver.ChromeDriver >= 85.0.4183.8700",
       "nunit >= 3.12.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nikola.kuzmanovic\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\nikola.kuzmanovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\Test\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nikola.kuzmanovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5273,8 +5274,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj": {
-              "projectPath": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj"
             }
           }
         }
@@ -5291,6 +5292,10 @@
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.7.1, )"
+          },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "[3.11.1, )"
           },
           "NUnit3TestAdapter": {
             "target": "Package",

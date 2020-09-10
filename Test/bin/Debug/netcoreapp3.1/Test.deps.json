@@ -10,6 +10,7 @@
         "dependencies": {
           "LightFramework": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.7.1",
+          "NUnit.ConsoleRunner": "3.11.1",
           "NUnit3TestAdapter": "3.17.0",
           "Selenium.WebDriver.ChromeDriver": "85.0.4183.8700",
           "NUnit": "3.12.0"

@@ -6,6 +6,7 @@ using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Remote;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace LightFramework.Base
@@ -73,8 +74,7 @@ namespace LightFramework.Base
             chromeOptions.AddArguments("headless");
             switch (browserType)
             {
-
-                case BrowserType.Chrome: Driver = new ChromeDriver(chromeOptions); break;
+                case BrowserType.Chrome: Driver = new ChromeDriver(chromeOptions) ; break;
                 case BrowserType.FireFox: Driver = new FirefoxDriver(); break;    
             }
         }

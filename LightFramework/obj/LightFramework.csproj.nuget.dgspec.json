@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj": {}
+    "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj",
         "projectName": "LightFramework",
-        "projectPath": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\LightFramework.csproj",
-        "packagesPath": "C:\\Users\\nikola.kuzmanovic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikola.kuzmanovic\\Desktop\\LightFramework\\LightFramework\\LightFramework\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nikola.kuzmanovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
