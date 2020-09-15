@@ -22,6 +22,5 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgWebDriver_ChromeDriver_win32 Condition=" '$(PkgWebDriver_ChromeDriver_win32)' == '' ">C:\Users\User\.nuget\packages\webdriver.chromedriver.win32\85.0.4183.87</PkgWebDriver_ChromeDriver_win32>
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\User\.nuget\packages\newtonsoft.json\10.0.3</PkgNewtonsoft_Json>
-    <PkgNUnit_ConsoleRunner Condition=" '$(PkgNUnit_ConsoleRunner)' == '' ">C:\Users\User\.nuget\packages\nunit.consolerunner\3.11.1</PkgNUnit_ConsoleRunner>
   </PropertyGroup>
 </Project>

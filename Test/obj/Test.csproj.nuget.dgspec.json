@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj": {}
+    "C:\\Users\\User\\Desktop\\NewFolder\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj": {
+    "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\LightFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\LightFramework.csproj",
         "projectName": "LightFramework",
-        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\LightFramework.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,10 +57,6 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
-            },
-            "NUnit.ConsoleRunner": {
-              "target": "Package",
-              "version": "[3.11.1, )"
             },
             "NUnit3TestAdapter": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -108,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj": {
+    "C:\\Users\\User\\Desktop\\NewFolder\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\NewFolder\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\NewFolder\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\Test\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\NewFolder\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,8 +127,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\New folder\\LightFrameworkJenkins\\LightFramework\\LightFramework.csproj"
+              "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\LightFramework.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\NewFolder\\LightFramework\\LightFramework.csproj"
               }
             }
           }
@@ -149,10 +145,6 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.7.1, )"
-            },
-            "NUnit.ConsoleRunner": {
-              "target": "Package",
-              "version": "[3.11.1, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
